@@ -3,7 +3,7 @@
 Plugin Name: Analog Clock Widget
 Description: A simple analog clock widget.
 Version: 1.0
-Author: Your Name
+Author: Nerghum
 */
 
 // Enqueue the JavaScript file
