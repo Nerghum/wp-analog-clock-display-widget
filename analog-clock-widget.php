@@ -6,6 +6,8 @@ Version: 1.0
 Author: Nerghum
 */
 
+
+// test test
 // Enqueue the JavaScript file
 function enqueue_analog_clock_widget_script() {
     wp_enqueue_script('analog-clock-widget', plugin_dir_url(__FILE__) . 'analog-clock-widget.js', [], '1.0', true);
